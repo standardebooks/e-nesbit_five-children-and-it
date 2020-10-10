@@ -6,10 +6,10 @@
 			<reason>Duplicate overrides SE base style.</reason>
 		</ignore>
 	</file>
-    <file path="chapter-5.xhtml">
-        <ignore>
-            <code>t-005</code>
-            <reason>Quote, not dialogue.</reason>
-        </ignore>
-    </file>
+	<file path="chapter-5.xhtml">
+		<ignore>
+			<code>t-005</code>
+			<reason>Quote, not dialogue.</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
