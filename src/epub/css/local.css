@@ -38,11 +38,11 @@ section[epub|type~="dedication"] blockquote{
 	font-style: italic;
 	display: inline-block;
 	max-width: 80%;
-	text-align: left;
+	text-align: initial;
 }
 
 [epub|type~="z3998:verse"] p{
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
@@ -67,7 +67,7 @@ footer{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-align: left;
+	text-align: initial;
 	text-indent: 0;
 }
 
