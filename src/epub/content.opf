@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Five Children and It</dc:title>
 		<meta property="file-as" refines="#title">Five Children and It</meta>
-		<meta property="dcterms:alternate" refines="#title">5 Children and It</meta>
+		<meta property="dcterms:alternative" refines="#title">5 Children and It</meta>
 		<dc:subject id="subject-1">Brothers and sisters -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Wishes -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Fairies -- Fiction</dc:subject>
